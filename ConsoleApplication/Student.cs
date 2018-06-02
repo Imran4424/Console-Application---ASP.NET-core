@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApplication
 {
-    class Student
+    public class Student
     {
         public int studentId { get; set; }
         public string name { get; set; }
