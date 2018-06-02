@@ -7,7 +7,7 @@ namespace ConsoleApplication
 {
     class SchoolContext : DbContext
     {
-        public DbSet<Student> Students { get; set; }
-
+        public DbSet<Student> students { get; set; }
+        public DbSet<Course>  courses { get; set; }
     }
 }
