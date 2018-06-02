@@ -9,5 +9,7 @@ namespace ConsoleApplication
     {
         public DbSet<Student> students { get; set; }
         public DbSet<Course>  courses { get; set; }
+
+
     }
 }
