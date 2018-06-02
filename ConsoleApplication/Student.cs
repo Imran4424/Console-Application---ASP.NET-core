@@ -7,5 +7,6 @@ namespace ConsoleApplication
     class Student
     {
         public int studentId { get; set; }
+        public string name { get; set; }
     }
 }
