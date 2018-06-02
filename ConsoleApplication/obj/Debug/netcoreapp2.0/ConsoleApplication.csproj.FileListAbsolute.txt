@@ -1,0 +1,8 @@
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp2.0\ConsoleApplication.deps.json
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp2.0\ConsoleApplication.runtimeconfig.json
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp2.0\ConsoleApplication.runtimeconfig.dev.json
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp2.0\ConsoleApplication.dll
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.0\ConsoleApplication.csprojAssemblyReference.cache
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.0\ConsoleApplication.AssemblyInfoInputs.cache
+E:\WARRIOR\WORK\ASP.NET core\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.0\ConsoleApplication.AssemblyInfo.cs
